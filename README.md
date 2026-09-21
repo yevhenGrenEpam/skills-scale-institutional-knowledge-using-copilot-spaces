@@ -1,16 +1,26 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository contains the project management process documentation used by OctoAcme. Together, these files explain how the team initiates, plans, executes, releases, and continuously improves cross-functional work.
 
-Hey yevhenGrenEpam!
+## Project management processes summary
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme uses a customer-focused, iterative delivery lifecycle with clear ownership and data-informed decisions. The process begins with project initiation, where the business need, stakeholders, success measures, risks, and go/no-go decision are established. Planning then turns approved work into a prioritized, estimated backlog with acceptance criteria, milestones, dependencies, and a Definition of Done.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+During execution, teams track work on a project board, use small pull requests, run automated and manual quality checks, hold regular standups and delivery reviews, and escalate blockers through defined levels. Risks and dependencies are maintained in a risk register and communicated through regular status updates and escalation paths. Releases follow pre-release quality and readiness checks, staging validation, production verification, stakeholder communication, and rollback or incident procedures when needed.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/yevhenGrenEpam/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+After sprints, releases, milestones, or incidents, retrospectives capture learnings and track a small number of actionable improvements. The roles and personas documentation defines responsibilities and communication expectations for developers, Product Managers, and Project Managers.
 
----
+## Process documents
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation Guide](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution and Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management and Communication](docs/octoacme-risks-and-communication.md)
+- [Release and Deployment Guide](docs/octoacme-release-and-deployment.md)
+- [Retrospective and Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md)
 
+## How these documents fit together
+
+The project management docs form a practical lifecycle for real delivery work. Initiation defines whether the work is worth doing; planning turns it into an actionable backlog; execution keeps the team aligned on progress and quality; release ensures safe deployment; and retrospective closes the loop by turning lessons learned into improvements. Together, they create a consistent way for OctoAcme teams to deliver value with accountability and transparency.
